@@ -12,6 +12,6 @@ public class test : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         Debug.Log("天ニキモンハン買った？");
-        Debug.Log("まだ～");
+        Debug.Log("aaaaaaaa");
 	}
 }
